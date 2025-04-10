@@ -1,3 +1,3 @@
 @font-face{font-family:"Obviously Black";src:url(assets/fonts/Obviously-Black.otf) format("opentype")}.ws_size-normal{width:300px}body{font-family:"Obviously Black",sans-serif}.hero-test{height:300px;background-image:url(assets/images/sass-test.jpg);background-size:cover;background-position:center;margin:2rem;border-radius:12px}.ws_motion{position:relative;width:100%;aspect-ratio:1/1;max-width:600px;margin:0 auto;text-align:center}.ws_motion>div{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);pointer-events:none}.ws_size-normal img{width:100%;max-width:200px}#cloud{z-index:1}#planet{z-index:2}#dotes{z-index:3}#satellite{z-index:4}#doubled_cloud{z-index:5}.ws_size-tiny img{max-width:80px}.ws_size-normal img{max-width:160px}.ws_size-large img{max-width:240px}
 
-/*# sourceMappingURL=main.css.map*/
+/*# sourceMappingURL=main.f5deb3c17b9fdb5e9309.css.map*/

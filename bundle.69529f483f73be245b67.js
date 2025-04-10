@@ -1,2 +1,0 @@
-(()=>{"use strict";document.addEventListener("DOMContentLoaded",(function(){var e=document.createElement("h2");e.textContent="Hello test from JS!",e.style.color="#4CAF50",e.style.marginTop="1rem",document.querySelector(".app").appendChild(e)}))})();
-//# sourceMappingURL=bundle.69529f483f73be245b67.js.map
