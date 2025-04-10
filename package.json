@@ -1,12 +1,13 @@
 {
   "name": "starter",
+  "homepage": "https://github.com/webimdeveloper/starter",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "serve": "webpack serve --config webpack.dev.js",
     "handoff": "webpack --config webpack.handoff.js",
     "build": "webpack --config webpack.prod.js",
-    "deploy": "gh-pages -d dist"
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
